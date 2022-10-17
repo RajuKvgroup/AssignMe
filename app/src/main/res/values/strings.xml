@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssignMe</string>
+    <string name="disagree">No</string>
+    <string name="yes">Yes</string>
+</resources>
